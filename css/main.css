@@ -11,7 +11,7 @@ body{
 
 main{
   overflow: auto;
-  height: calc(100vh - 75px);
+  height: calc(100vh - 120px);
 }
 
 
